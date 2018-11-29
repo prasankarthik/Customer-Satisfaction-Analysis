@@ -1,0 +1,1483 @@
+    lhs                            rhs                           support confidence     lift count
+[1]   {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10}          => {Likelihood_Recommend_H=10} 0.3075566  0.9919652 2.052092  2963
+[2]   {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3062072  0.9919301 2.052019  2950
+[3]   {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3019514  0.9918173 2.051786  2909
+[4]   {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3003944  0.9917752 2.051699  2894
+[5]   {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10}          => {Likelihood_Recommend_H=10} 0.3113971  0.9917355 2.051617  3000
+[6]   {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3113971  0.9917355 2.051617  3000
+[7]   {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3113971  0.9917355 2.051617  3000
+[8]   {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3113971  0.9917355 2.051617  3000
+[9]   {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3113971  0.9917355 2.051617  3000
+[10]  {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3113971  0.9917355 2.051617  3000
+[11]  {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3113971  0.9917355 2.051617  3000
+[12]  {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3113971  0.9917355 2.051617  3000
+[13]  {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3113971  0.9917355 2.051617  3000
+[14]  {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3113971  0.9917355 2.051617  3000
+[15]  {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3113971  0.9917355 2.051617  3000
+[16]  {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3064148  0.9916023 2.051341  2952
+[17]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3172099  0.9915639 2.051262  3056
+[18]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3047540  0.9915569 2.051247  2936
+[19]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Ski_PL=N,                                                                                    
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3047540  0.9915569 2.051247  2936
+[20]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y,                                                                       
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3047540  0.9915569 2.051247  2936
+[21]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N,                                                                                   
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3047540  0.9915569 2.051247  2936
+[22]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N,                                                                        
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3047540  0.9915569 2.051247  2936
+[23]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3047540  0.9915569 2.051247  2936
+[24]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3047540  0.9915569 2.051247  2936
+[25]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3047540  0.9915569 2.051247  2936
+[26]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3047540  0.9915569 2.051247  2936
+[27]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3047540  0.9915569 2.051247  2936
+[28]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3047540  0.9915569 2.051247  2936
+[29]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y}      => {Likelihood_Recommend_H=10} 0.3037160  0.9915283 2.051188  2926
+[30]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10}          => {Likelihood_Recommend_H=10} 0.3262404  0.9914826 2.051094  3143
+[31]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3262404  0.9914826 2.051094  3143
+[32]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3262404  0.9914826 2.051094  3143
+[33]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3262404  0.9914826 2.051094  3143
+[34]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3262404  0.9914826 2.051094  3143
+[35]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3262404  0.9914826 2.051094  3143
+[36]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3262404  0.9914826 2.051094  3143
+[37]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3262404  0.9914826 2.051094  3143
+[38]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3262404  0.9914826 2.051094  3143
+[39]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3262404  0.9914826 2.051094  3143
+[40]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3262404  0.9914826 2.051094  3143
+[41]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3135769  0.9914670 2.051061  3021
+[42]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3013286  0.9914617 2.051051  2903
+[43]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y,                                                                        
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3003944  0.9914354 2.050996  2894
+[44]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3210504  0.9913462 2.050811  3093
+[45]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3201163  0.9913211 2.050760  3084
+[46]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3201163  0.9913211 2.050760  3084
+[47]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3201163  0.9913211 2.050760  3084
+[48]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3201163  0.9913211 2.050760  3084
+[49]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3201163  0.9913211 2.050760  3084
+[50]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3201163  0.9913211 2.050760  3084
+[51]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3201163  0.9913211 2.050760  3084
+[52]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3201163  0.9913211 2.050760  3084
+[53]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3201163  0.9913211 2.050760  3084
+[54]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3201163  0.9913211 2.050760  3084
+[55]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3201163  0.9913211 2.050760  3084
+[56]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y}      => {Likelihood_Recommend_H=10} 0.3079718  0.9913131 2.050743  2967
+[57]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y,                                                                        
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3079718  0.9913131 2.050743  2967
+[58]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y,                                                                        
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3079718  0.9913131 2.050743  2967
+[59]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y,                                                                        
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3079718  0.9913131 2.050743  2967
+[60]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y,                                                                        
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3079718  0.9913131 2.050743  2967
+[61]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y,                                                                        
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3079718  0.9913131 2.050743  2967
+[62]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y,                                                                        
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3079718  0.9913131 2.050743  2967
+[63]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y,                                                                        
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3079718  0.9913131 2.050743  2967
+[64]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y,                                                                        
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3079718  0.9913131 2.050743  2967
+[65]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y,                                                                        
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3079718  0.9913131 2.050743  2967
+[66]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Business.Center_PL=Y}      => {Likelihood_Recommend_H=10} 0.3079718  0.9913131 2.050743  2967
+[67]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3078680  0.9913102 2.050737  2966
+[68]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10}          => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[69]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[70]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[71]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[72]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[73]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[74]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[75]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[76]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[77]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[78]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[79]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y,                                                                       
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[80]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N,                                                                                   
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[81]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N,                                                                        
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[82]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[83]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[84]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[85]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[86]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[87]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[88]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N,                                                                                   
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[89]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N,                                                                        
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[90]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[91]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[92]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[93]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[94]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[95]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[96]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N,                                                                        
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[97]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[98]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[99]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[100] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+	   [97]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[98]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[99]  {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[100] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[101] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[102] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[103] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[104] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[105] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[106] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[107] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[108] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[109] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[110] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[111] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[112] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[113] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[114] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[115] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[116] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[117] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[118] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[119] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[120] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[121] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[122] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[123] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3307038  0.9912881 2.050691  3186
+[124] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3179365  0.9912621 2.050638  3063
+[125] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Resort_PL=N,                                                                                 
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3179365  0.9912621 2.050638  3063
+[126] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y,                                                                       
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3179365  0.9912621 2.050638  3063
+[127] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N,                                                                                   
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3179365  0.9912621 2.050638  3063
+[128] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N,                                                                        
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3179365  0.9912621 2.050638  3063
+[129] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3179365  0.9912621 2.050638  3063
+[130] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3179365  0.9912621 2.050638  3063
+[131] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3179365  0.9912621 2.050638  3063
+[132] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3179365  0.9912621 2.050638  3063
+[133] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3179365  0.9912621 2.050638  3063
+[134] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3179365  0.9912621 2.050638  3063
+[135] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3057920  0.9912517 2.050616  2946
+[136] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Mini.Bar_PL=N,                                                                               
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3057920  0.9912517 2.050616  2946
+[137] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y,                                                                       
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3057920  0.9912517 2.050616  2946
+[138] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N,                                                                                   
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3057920  0.9912517 2.050616  2946
+[139] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N,                                                                        
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3057920  0.9912517 2.050616  2946
+[140] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3057920  0.9912517 2.050616  2946
+[141] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3057920  0.9912517 2.050616  2946
+[142] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3057920  0.9912517 2.050616  2946
+[143] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3057920  0.9912517 2.050616  2946
+[144] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3057920  0.9912517 2.050616  2946
+[145] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3057920  0.9912517 2.050616  2946
+[146] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3149263  0.9911794 2.050466  3034
+[147] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Business.Center_PL=Y,                                                                        
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3030932  0.9911745 2.050456  2920
+[148] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3254100  0.9911476 2.050401  3135
+[149] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Ski_PL=N,                                                                                    
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3254100  0.9911476 2.050401  3135
+[150] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y,                                                                       
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3254100  0.9911476 2.050401  3135
+[151] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N,                                                                                   
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3254100  0.9911476 2.050401  3135
+[152] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N,                                                                        
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3254100  0.9911476 2.050401  3135
+[153] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3254100  0.9911476 2.050401  3135
+[154] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3254100  0.9911476 2.050401  3135
+[155] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3254100  0.9911476 2.050401  3135
+[156] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3254100  0.9911476 2.050401  3135
+[157] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3254100  0.9911476 2.050401  3135
+[158] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3254100  0.9911476 2.050401  3135
+[159] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Resort_PL=N,                                                                                 
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3128503  0.9911213 2.050346  3014
+[160] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Staff_Cared_H=10,                                                                            
+       Mini.Bar_PL=N,                                                                               
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3008096  0.9911081 2.050319  2898
+[161] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3002906  0.9910928 2.050287  2893
+[162] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10}         => {Likelihood_Recommend_H=10} 0.3159643  0.9908854 2.049858  3044
+[163] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3159643  0.9908854 2.049858  3044
+[164] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3159643  0.9908854 2.049858  3044
+[165] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3159643  0.9908854 2.049858  3044
+[166] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3159643  0.9908854 2.049858  3044
+[167] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3159643  0.9908854 2.049858  3044
+[168] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3159643  0.9908854 2.049858  3044
+[169] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3159643  0.9908854 2.049858  3044
+[170] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3159643  0.9908854 2.049858  3044
+[171] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3159643  0.9908854 2.049858  3044
+[172] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3159643  0.9908854 2.049858  3044
+[173] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3044426  0.9908784 2.049844  2933
+[174] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10}         => {Likelihood_Recommend_H=10} 0.3038198  0.9908599 2.049805  2927
+[175] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3014324  0.9907881 2.049657  2904
+[176] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3109819  0.9907407 2.049559  2996
+[177] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10}          => {Likelihood_Recommend_H=10} 0.3097364  0.9907039 2.049483  2984
+[178] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3097364  0.9907039 2.049483  2984
+[179] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3097364  0.9907039 2.049483  2984
+[180] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3097364  0.9907039 2.049483  2984
+[181] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3097364  0.9907039 2.049483  2984
+[182] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3097364  0.9907039 2.049483  2984
+[183] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3097364  0.9907039 2.049483  2984
+[184] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3097364  0.9907039 2.049483  2984
+[185] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3097364  0.9907039 2.049483  2984
+[186] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3097364  0.9907039 2.049483  2984
+[187] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3097364  0.9907039 2.049483  2984
+[188] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3045464  0.9905469 2.049158  2934
+[189] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3025742  0.9904859 2.049032  2915
+[190] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3025742  0.9904859 2.049032  2915
+[191] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3025742  0.9904859 2.049032  2915
+[192] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3025742  0.9904859 2.049032  2915
+[193] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3025742  0.9904859 2.049032  2915
+[194] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3025742  0.9904859 2.049032  2915
+[195] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3025742  0.9904859 2.049032  2915
+[196] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3025742  0.9904859 2.049032  2915
+[197] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3025742  0.9904859 2.049032  2915
+[198] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3025742  0.9904859 2.049032  2915
+[199] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3025742  0.9904859 2.049032  2915
+[200] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3126427  0.9904637 2.048986  3012
+[201] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3126427  0.9904637 2.048986  3012
+[202] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3126427  0.9904637 2.048986  3012
+[203] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3126427  0.9904637 2.048986  3012
+[204] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3126427  0.9904637 2.048986  3012
+[205] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3126427  0.9904637 2.048986  3012
+[206] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3126427  0.9904637 2.048986  3012
+[207] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3126427  0.9904637 2.048986  3012
+[208] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3126427  0.9904637 2.048986  3012
+[209] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3126427  0.9904637 2.048986  3012
+[210] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3126427  0.9904637 2.048986  3012
+[211] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3003944  0.9904175 2.048890  2894
+[212] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Limo.Service_PL=N}         => {Likelihood_Recommend_H=10} 0.3001868  0.9904110 2.048877  2892
+[213] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3206353  0.9903815 2.048816  3089
+[214] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3075566  0.9903075 2.048663  2963
+[215] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3074528  0.9903042 2.048656  2962
+[216] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10}          => {Likelihood_Recommend_H=10} 0.3171061  0.9902755 2.048597  3055
+[217] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3171061  0.9902755 2.048597  3055
+[218] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3171061  0.9902755 2.048597  3055
+[219] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3171061  0.9902755 2.048597  3055
+[220] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3171061  0.9902755 2.048597  3055
+[221] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3171061  0.9902755 2.048597  3055
+[222] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3171061  0.9902755 2.048597  3055
+[223] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3171061  0.9902755 2.048597  3055
+[224] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3171061  0.9902755 2.048597  3055
+[225] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3171061  0.9902755 2.048597  3055
+[226] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3171061  0.9902755 2.048597  3055
+[227] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Mini.Bar_PL=N}             => {Likelihood_Recommend_H=10} 0.3144073  0.9901929 2.048426  3029
+[228] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Spa_PL=N}                  => {Likelihood_Recommend_H=10} 0.3140959  0.9901832 2.048406  3026
+[229] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3120199  0.9901186 2.048272  3006
+[230] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Check_In_H=10,                                                                               
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3015362  0.9901159 2.048266  2905
+[231] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3101515  0.9900596 2.048150  2988
+[232] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3101515  0.9900596 2.048150  2988
+[233] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3101515  0.9900596 2.048150  2988
+[234] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3101515  0.9900596 2.048150  2988
+[235] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3101515  0.9900596 2.048150  2988
+[236] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3101515  0.9900596 2.048150  2988
+[237] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3101515  0.9900596 2.048150  2988
+[238] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3101515  0.9900596 2.048150  2988
+[239] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3101515  0.9900596 2.048150  2988
+[240] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3101515  0.9900596 2.048150  2988
+[241] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3101515  0.9900596 2.048150  2988
+[242] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10}             => {Likelihood_Recommend_H=10} 0.3405647  0.9900422 2.048114  3281
+[243] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3405647  0.9900422 2.048114  3281
+[244] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3405647  0.9900422 2.048114  3281
+[245] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3405647  0.9900422 2.048114  3281
+[246] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3405647  0.9900422 2.048114  3281
+[247] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3405647  0.9900422 2.048114  3281
+[248] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3405647  0.9900422 2.048114  3281
+[249] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3405647  0.9900422 2.048114  3281
+[250] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3405647  0.9900422 2.048114  3281
+[251] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3405647  0.9900422 2.048114  3281
+[252] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3405647  0.9900422 2.048114  3281
+[253] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Business.Center_PL=Y}      => {Likelihood_Recommend_H=10} 0.3179365  0.9899806 2.047987  3063
+[254] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3274860  0.9899592 2.047942  3155
+[255] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Staff_Cared_H=10,                                                                            
+       Check_In_H=10,                                                                               
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3051692  0.9898990 2.047818  2940
+[256] {Overall_Sat_H=10,                                                                            
+       Guest_Room_H=10,                                                                             
+       Customer_SVC_H=10,                                                                           
+       Staff_Cared_H=10,                                                                            
+       Resort_PL=N}               => {Likelihood_Recommend_H=10} 0.3047540  0.9898854 2.047789  2936
+[257] {Overall_Sat_H=10,                                                                            
+       Condition_Hotel_H=10,                                                                        
+       Customer_SVC_H=10,                                                                           
+       Check_In_H=10,                                                                               
+       GOLDPASSPORT_FLG_R=GP Yes} => {Likelihood_Recommend_H=10} 0.3351671  0.9898835 2.047786  3229
+[258] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10}          => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[259] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[260] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[261] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[262] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[263] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[264] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y}            => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[265] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y}         => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[266] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N}           => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[267] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N}               => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[268] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N}             => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[269] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Indoor.Corridors_PL=Y,                                                                       
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[270] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N,                                                                                   
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[271] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N,                                                                        
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[272] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[273] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[274] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[275] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[276] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[277] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Ski_PL=N}                  => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[278] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Golf_PL=N,                                                                                   
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[279] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N,                                                                        
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[280] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[281] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[282] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[283] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[284] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[285] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Indoor.Corridors_PL=Y}     => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[286] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Fitness.Trainer_PL=N,                                                                        
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[287] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[288] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[289] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[290] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[291] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[292] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Golf_PL=N}                 => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[293] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Fitness.Center_PL=Y,                                                                         
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[294] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[295] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[296] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Conference_PL=N,                                                                             
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[297] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Casino_PL=N,                                                                                 
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[298] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Boutique_PL=N,                                                                               
+       Fitness.Trainer_PL=N}      => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[299] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Elevators_PL=Y,                                                                              
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+[300] {Overall_Sat_H=10,                                                                            
+       Tranquility_H=10,                                                                            
+       Staff_Cared_H=10,                                                                            
+       Dry.Cleaning_PL=Y,                                                                           
+       Fitness.Center_PL=Y}       => {Likelihood_Recommend_H=10} 0.3130579  0.9898261 2.047667  3016
+> 
